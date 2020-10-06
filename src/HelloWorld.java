@@ -7,6 +7,7 @@ public class HelloWorld {
         int a = 12;
         int b = 21;
         int c = a +b;
+        System.out.println("the value of c"+c );
 
     }
 }
